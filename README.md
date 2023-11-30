@@ -6,7 +6,7 @@ Bloxlink.py is a lightweight wrapper for the [Bloxlink](https://blox.link) API.
 ## Installation
 To install the latest stable version of bloxlink.py, run the following command:
 
-` !!TODO!!`
+`!!TODO!!`
 
 To install the latest **unstable** version of bloxlink.py, install [git-scm](https://git-scm.com/downloads) and run the following:
 
