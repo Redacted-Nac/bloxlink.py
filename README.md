@@ -17,7 +17,8 @@ To install the latest **unstable** version of bloxlink.py, install [git-scm](htt
 ### Fetch ROBLOX user ID from Discord ID with the guild API
 
 ```python
-import bloxlink
+
+from src import bloxlink
 
 client = bloxlink.Bloxlink(token="YOUR TOKEN HERE", guild=GUILDIDHERE)
 
@@ -29,7 +30,8 @@ print(userid)
 ### Fetch Discord user ID from ROBLOX ID with the guild API
 
 ```python
-import bloxlink
+
+from src import bloxlink
 
 client = bloxlink.Bloxlink(token="YOUR TOKEN HERE", guild=DISCORDGUILDIDHERE)
 
